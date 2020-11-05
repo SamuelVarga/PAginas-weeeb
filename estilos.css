@@ -1,0 +1,17 @@
+body {
+	font-family: georgina, times, seriff;
+	color: #F0F9F1;
+	text-align: center;
+	line-height: 40px;
+	width: 1300px;
+	margin: 135px;
+}
+
+h1 {
+	font-size:5rem;
+	line-height: 4.5em;
+}
+
+p {
+	margin-bottom: 3.3em;
+}
